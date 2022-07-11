@@ -14,7 +14,7 @@
     margin-bottom: 0;
     flex-basis: 100%;
 }
-.places h2 {
+.places article {
     text-align: center;
     width: 390px;
     padding: 20px 20px 20px 20px;
