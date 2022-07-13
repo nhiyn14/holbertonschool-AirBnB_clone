@@ -13,4 +13,4 @@ All index.html files are html pages at different development stages of the websi
 * 7-index.html: upgrading 6-index.html with Places section  
 * 8-index.html: upgrading 7-index.html with Details of Articles inside Places section  
 * 100-index.html: upgrading 8-index.html with Amenities and Reviews inside Articles  
-* 101-index.html: A copy of 100-index.html to meet the requirement for task 10
+* 101-index.html: A copy of 100-index.html where article's height fits it contents
